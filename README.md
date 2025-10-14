@@ -21,7 +21,8 @@ Play the classic 3x3 game with smooth animations, light & dark themes, and a rea
 
 | Light Mode | Dark Mode | Game in Action |
 |:-----------:|:----------:|:---------------:|
-| ![Light UI](https://github.com/vushakolaPhanindra/tictoktoe/blob/main/screenshots/Screenshot%202025-04-05%20205510.png) | ![Dark UI](https://github.com/vushakolaPhanindra/tictoktoe/blob/main/screenshots/Screenshot%202025-04-05%20205656.png) | ![Gameplay](https://github.com/vushakolaPhanindra/tictoktoe/blob/main/screenshots/Screenshot%202025-04-05%20205656.png)
+| ![Light UI](https://github.com/vushakolaPhanindra/tictoktoe/blob/main/screenshots/Screenshot%202025-04-05%20205510.png) | ![Dark UI](https://github.com/vushakolaPhanindra/tictoktoe/blob/main/screenshots/Screenshot%202025-04-05%20205656.png) 
+                                                                   | ![Gameplay](https://github.com/vushakolaPhanindra/tictoktoe/blob/main/screenshots/Screenshot%202025-04-05%20205656.png) |
 
 ---
 
