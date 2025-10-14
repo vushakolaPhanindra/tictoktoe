@@ -1,45 +1,51 @@
-Tic-Tac-Toe Flutter App
-A beautiful and interactive Tic-Tac-Toe game built using Flutter.
-This app lets two players enjoy the classic 3x3 game with an animated interface, scoreboard, and a switchable light or dark theme.
+# 🎮 Tic-Tac-Toe Flutter App
 
-Features
+A **beautifully crafted** and **interactive** Tic-Tac-Toe game built using **Flutter**.  
+Play the classic 3x3 game with smooth animations, light & dark themes, and a real-time scoreboard — all in a modern UI style.
 
-3x3 Tic-Tac-Toe grid
+---
 
-Two-player mode
+## ✨ Features
 
-Light and dark theme toggle
+✅ 3x3 **Tic-Tac-Toe grid** for two players  
+🌗 **Light & Dark Theme** toggle  
+🏆 **Scoreboard** to track wins & draws  
+🤝 **Two-player** local mode  
+🎨 **Animated UI** with gradients & transitions  
+📱 Fully **responsive design** for all screen sizes  
+⚡ Instant **winner detection** and draw alerts  
 
-Winner detection and draw alert
+---
 
-Scoreboard to track players’ scores
+## 🖼️ Screenshots
 
-Responsive and animated UI
+| Light Mode | Dark Mode | Game in Action |
+|:-----------:|:----------:|:---------------:|
+| ![Light UI](https://github.com/vushakolaPhanindra/tictoktoe/blob/main/screenshots/Screenshot%202025-04-05%20205510.png) | ![Dark UI](https://github.com/vushakolaPhanindra/tictoktoe/blob/main/screenshots/Screenshot%202025-04-05%20205656.png) | ![Gameplay](https://github.com/vushakolaPhanindra/tictoktoe/blob/main/screenshots/Screenshot%202025-04-05%20205656.png)
 
-Smooth gradients and attractive visuals
+---
 
-Screenshots
+## 🧠 Tech Stack
 
-You can view the screenshots in the screenshots folder inside this project.
+| Technology | Description |
+|-------------|-------------|
+| **Flutter** | UI toolkit for building cross-platform apps |
+| **Dart** | Programming language used by Flutter |
+| **Material Design** | Clean and elegant UI components |
 
-Tech Stack
+---
 
-Flutter – UI toolkit for building apps
+## ⚙️ Installation & Setup
 
-Dart – Programming language used by Flutter
+Follow these steps to run the project locally 👇
 
-Material Design – Widgets and components
-
-Installation
-
-Follow these steps to set up and run the app locally:
-
-Clone the repository
+```bash
+# Clone the repository
 git clone https://github.com/vushakolaPhanindra/tictoktoe.git
 cd tictoktoe
 
-Install dependencies
+# Install dependencies
 flutter pub get
 
-Run the app
+# Run the app
 flutter run
